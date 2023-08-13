@@ -4658,20 +4658,20 @@ section .color-overlay {
 }
 .circle {
 	background: #333;
-	display: inline-block;
-	padding: 20px;
-	padding-top: 22px;
-	font-size: 30px;
-	color: #fff;
-	margin-top: 140px;
-	width: 70px;
-	height: 70px;
-	border-radius: 60px;
-	-moz-border-radius: 60px;
-	-webkit-border-radius: 60px;
-	-webkit-box-shadow: 8px 8px 40px 0px rgba(0, 0, 0, 0.6);
-	-moz-box-shadow: 8px 8px 40px 0px rgba(0, 0, 0, 0.6);
-	box-shadow: 8px 8px 40px 0px rgba(0, 0, 0, 0.6);
+    display: inline-block;
+    padding: 20px;
+    padding-top: 22px;
+    font-size: 30px;
+    color: #fff;
+    margin-top: 42px;
+    width: 70px;
+    height: 70px;
+    border-radius: 60px;
+    -moz-border-radius: 60px;
+    -webkit-border-radius: 60px;
+    -webkit-box-shadow: 8px 8px 40px 0px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 8px 8px 40px 0px rgba(0, 0, 0, 0.6);
+    box-shadow: 8px 8px 40px 0px rgba(0, 0, 0, 0.6);
 }
 #services-list {
 	padding: 0;
